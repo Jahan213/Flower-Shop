@@ -1,0 +1,115 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner{
+    display: flex;
+    color: #272727;
+    border: 190px 95px 0px 240px;
+    text-align: bottom-center;
+    justify-content: space-around;
+    
+}
+.btn-primary{
+    background-color: #E55473;
+    border: 0  ;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 15px ;
+    border-radius: 8px;
+
+}
+.header{
+    background: rgba(229, 84, 115, 0.10);
+}
+.banner-content{
+    text-align: center;
+}
+.banner-description{
+    color: rgba(39, 39, 39, 0.60);
+    border-top: 32px;
+    border-bottom: 32px ;
+    border: 32px 170px 32px 240px;
+
+}
+.picture{
+    border: 50px 240px 0px 97px;
+}
+.banner-greeting{
+    border: 190px 97px 32px 250px;
+
+}
+.flowersets{
+    display: flex;
+}
+.head{
+    text-align: middle;
+}
+.flowerset1{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+width: 464px;
+height: 538px;
+flex-shrink: 0;
+width: 310px;
+height: 428px;
+
+}
+.flowerset2{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+width: 464px;
+height: 538px;
+flex-shrink: 0;
+width: 370px;
+height: 370px;
+}
+.flowerset3{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+width: 464px;
+height: 538px;
+width: 314px;
+height: 471px;
+flex-shrink: 0;
+
+
+}
+.des{
+    text-align: center;
+}
+.paragraph{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+}
+.discount{
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+width: 1922px;
+height: 620px;
+flex-shrink: 0;
+}
+
+.had{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 800;
+ 
+}
+.dis-para{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px;
+}
+.img{
+    align-items: self-end;
+}
+#deal{
+    text-align: center;
+}
